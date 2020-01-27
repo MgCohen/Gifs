@@ -1,0 +1,607 @@
+fileFormatVersion: 2
+guid: aefca0ca765320b4d8f8bf226d1eca93
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2975171371516214564
+    second: joggo-energia_0
+  - first:
+      213: -5867390319560042073
+    second: joggo-energia_1
+  - first:
+      213: 478034894140059028
+    second: joggo-energia_2
+  - first:
+      213: 5866099610626336359
+    second: joggo-energia_3
+  - first:
+      213: -4103991430458814201
+    second: joggo-energia_4
+  - first:
+      213: 966061602935519685
+    second: joggo-energia_5
+  - first:
+      213: 6519562734212408563
+    second: joggo-energia_6
+  - first:
+      213: 1552215658608079709
+    second: joggo-energia_7
+  - first:
+      213: 2051106027727067818
+    second: joggo-energia_8
+  - first:
+      213: 3050067921520861722
+    second: joggo-energia_9
+  - first:
+      213: -5418046285238216661
+    second: joggo-energia_10
+  - first:
+      213: 5758427306195663353
+    second: joggo-energia_11
+  - first:
+      213: -7118755288140660697
+    second: joggo-energia_12
+  - first:
+      213: -6917590505013969160
+    second: joggo-energia_13
+  - first:
+      213: -4737260213259538079
+    second: joggo-energia_14
+  - first:
+      213: -7863050967192905412
+    second: joggo-energia_15
+  - first:
+      213: 2873140468962114520
+    second: joggo-energia_16
+  - first:
+      213: -4536387417008602074
+    second: joggo-energia_17
+  - first:
+      213: 652666915430922815
+    second: joggo-energia_18
+  - first:
+      213: -2114610657845356671
+    second: joggo-energia_19
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: joggo-energia_0
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1990
+        width: 2234
+        height: 1006
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e03e239ee21a3ea4393046e90dd088ce
+      internalID: -2975171371516214564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joggo-energia_1
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 1092
+        width: 723
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d9f35497bd46a04d9c9a856a91653f5
+      internalID: -5867390319560042073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joggo-energia_2
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 676
+        width: 329
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dd03ac993b179a42b75549f9db9ed44
+      internalID: 478034894140059028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joggo-energia_3
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 682
+        width: 79
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea4878a1052a59240a7d1766c4d54cab
+      internalID: 5866099610626336359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joggo-energia_4
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 680
+        width: 79
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55c799027638ab840915d134e99e8c0c
+      internalID: -4103991430458814201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joggo-energia_5
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 787
+        width: 54
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d622989cc06205479f85f875cf4afb7
+      internalID: 966061602935519685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joggo-energia_6
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 787
+        width: 54
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0abc846818bd60849a9ca7f18edc1524
+      internalID: 6519562734212408563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joggo-energia_7
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 586
+        width: 320
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b098ca9d6fab3fe44b9ee8179edb41df
+      internalID: 1552215658608079709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joggo-energia_8
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 586
+        width: 332
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dd1808dd05d6ea46ae716dda38bbc59
+      internalID: 2051106027727067818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joggo-energia_9
+      rect:
+        serializedVersion: 2
+        x: 1986
+        y: 567
+        width: 307
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bbe55b1ec6fcf34a966ff62c65a0781
+      internalID: 3050067921520861722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joggo-energia_10
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 751
+        width: 53
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfc81ba141f581b4e9f29b76f2d43d6f
+      internalID: -5418046285238216661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joggo-energia_11
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 483
+        width: 23
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9697fd0e45f2954c97db79bb33c2ec8
+      internalID: 5758427306195663353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joggo-energia_12
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 260
+        width: 382
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9bb2ae7e5ac29f4688197e8dec72a46
+      internalID: -7118755288140660697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joggo-energia_13
+      rect:
+        serializedVersion: 2
+        x: 1497
+        y: 291
+        width: 382
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b492da332da8e774c8fd81439fc30d54
+      internalID: -6917590505013969160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joggo-energia_14
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 322
+        width: 209
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85c9e924cdb68424aa1a7112623d09b6
+      internalID: -4737260213259538079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joggo-energia_15
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 430
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a799998722df1c74ba22e1fa89f5430b
+      internalID: -7863050967192905412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joggo-energia_16
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 430
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 851e78a97c7d84f449ea4ccb56faf86e
+      internalID: 2873140468962114520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joggo-energia_17
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 283
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 344a56ec978c1e44cbd0ec28ced1618c
+      internalID: -4536387417008602074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joggo-energia_18
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 276
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8476571650dce5847a80a65e7919dace
+      internalID: 652666915430922815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joggo-energia_19
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 214
+        width: 23
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47ea2c1d31d77644ab6c59bc11124cd7
+      internalID: -2114610657845356671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

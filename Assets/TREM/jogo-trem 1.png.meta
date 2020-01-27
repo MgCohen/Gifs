@@ -1,0 +1,535 @@
+fileFormatVersion: 2
+guid: 9bdc73d5dc3853e4fbb5e608a9e29705
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3710500028534631534
+    second: jogo-trem 1_0
+  - first:
+      213: 4537025493869082241
+    second: jogo-trem 1_1
+  - first:
+      213: 4627341061559450168
+    second: jogo-trem 1_2
+  - first:
+      213: 632913732613097031
+    second: jogo-trem 1_3
+  - first:
+      213: 5244567633685206761
+    second: jogo-trem 1_4
+  - first:
+      213: -7546308945130041018
+    second: jogo-trem 1_5
+  - first:
+      213: 777447821215433967
+    second: jogo-trem 1_6
+  - first:
+      213: 7105504631306952395
+    second: jogo-trem 1_7
+  - first:
+      213: 7325545072094649697
+    second: jogo-trem 1_8
+  - first:
+      213: 647288968367972339
+    second: jogo-trem 1_9
+  - first:
+      213: -7089902567242060129
+    second: jogo-trem 1_10
+  - first:
+      213: -4736524694440780950
+    second: jogo-trem 1_11
+  - first:
+      213: -7570153846261990099
+    second: jogo-trem 1_12
+  - first:
+      213: 7726450691338587300
+    second: jogo-trem 1_13
+  - first:
+      213: -7109791774381030979
+    second: jogo-trem 1_14
+  - first:
+      213: -512497586764768786
+    second: jogo-trem 1_15
+  - first:
+      213: 7729008998651914246
+    second: jogo-trem 1_16
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: jogo-trem 1_0
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 2154
+        width: 2737
+        height: 1006
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef510875ebd2b5c4dbf8c70854eac7b6
+      internalID: 3710500028534631534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jogo-trem 1_1
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1069
+        width: 2241
+        height: 1006
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ff7a031b8192484ba3afb0ceafa5282
+      internalID: 4537025493869082241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jogo-trem 1_2
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 786
+        width: 960
+        height: 209
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe84a2106b3c68f47be7e65b9b7678f4
+      internalID: 4627341061559450168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jogo-trem 1_3
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 732
+        width: 380
+        height: 214
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b732b3802b4fc4f85d8d6071a4b9b4
+      internalID: 632913732613097031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jogo-trem 1_4
+      rect:
+        serializedVersion: 2
+        x: 1774
+        y: 732
+        width: 205
+        height: 214
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6baad2fd722ba2740892463ee5c10523
+      internalID: 5244567633685206761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jogo-trem 1_5
+      rect:
+        serializedVersion: 2
+        x: 2035
+        y: 732
+        width: 205
+        height: 214
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 450439b0edd750249b78b0212d2ca614
+      internalID: -7546308945130041018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jogo-trem 1_6
+      rect:
+        serializedVersion: 2
+        x: 2260
+        y: 732
+        width: 380
+        height: 214
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ffaeb1af0fa87345871eabefe09f27c
+      internalID: 777447821215433967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jogo-trem 1_7
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 531
+        width: 960
+        height: 209
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e94daee8cae6ca34a90856153afd98a5
+      internalID: 7105504631306952395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jogo-trem 1_8
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 485
+        width: 131
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d56c099e44e7b9d41a1b161c195081fd
+      internalID: 7325545072094649697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jogo-trem 1_9
+      rect:
+        serializedVersion: 2
+        x: 1923
+        y: 562
+        width: 19
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bab5371ddcdaae047acdbf89b9b971d7
+      internalID: 647288968367972339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jogo-trem 1_10
+      rect:
+        serializedVersion: 2
+        x: 1949
+        y: 562
+        width: 80
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a189b2f37e8833428710226dd00add2
+      internalID: -7089902567242060129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jogo-trem 1_11
+      rect:
+        serializedVersion: 2
+        x: 2181
+        y: 557
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17bd10cea71feb2408c9090bcdbb11ad
+      internalID: -4736524694440780950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jogo-trem 1_12
+      rect:
+        serializedVersion: 2
+        x: 2207
+        y: 557
+        width: 80
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 674ed6de78ee5ff48b321028fb60b5c3
+      internalID: -7570153846261990099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jogo-trem 1_13
+      rect:
+        serializedVersion: 2
+        x: 1891
+        y: 500
+        width: 176
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 6}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20b8a22b77bc2c440a13751d960dd3bc
+      internalID: 7726450691338587300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jogo-trem 1_14
+      rect:
+        serializedVersion: 2
+        x: 2149
+        y: 495
+        width: 176
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 8}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 960c2d97885565742a2b2ec5b8b7f2e3
+      internalID: -7109791774381030979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jogo-trem 1_15
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 368
+        width: 1608
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53a287b4f420f534bba078f81e83e1ea
+      internalID: -512497586764768786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jogo-trem 1_16
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 143
+        width: 2241
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc79e8afe5b58c348930d70be280631d
+      internalID: 7729008998651914246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
